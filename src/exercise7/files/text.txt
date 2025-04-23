@@ -1,0 +1,3 @@
+This a new text
+about the difference with another text
+in this same directory
