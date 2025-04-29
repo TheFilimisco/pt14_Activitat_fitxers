@@ -1,0 +1,2 @@
+Realitza un programa anomenat Analitzador.java que donat un fitxer de text plà calculi el
+número de paraules que hi ha al text. El resultat s'escriurà per pantalla
