@@ -53,7 +53,7 @@ public class Student{
     public void writeStudent(RandomAccessFile raf) throws IOException{
         raf.writeInt(idStudent);
         raf.writeUTF(handleLength(name,50));
-        raf.writeUTF(handleLength(name,50));
+        raf.writeUTF(handleLength(lastName,50));
         raf.writeInt(age);
     }
 
